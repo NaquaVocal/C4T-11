@@ -1,0 +1,1 @@
+print('baitap3')
